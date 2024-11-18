@@ -1,0 +1,2 @@
+# novemberi_dolgozat
+javascript
